@@ -1,0 +1,5 @@
+Simple library for using an LRU from Python. This wraps around the Glib types
+like GQueue.
+
+The intention is to experiment with a simple memcached-like service, although
+clearly an efficient LRU implementation for Python has other uses.
